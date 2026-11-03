@@ -7,8 +7,8 @@ class Gitpulse < Formula
 
   desc "GitHub traffic, clones, referrers, and release downloads with HTML dashboards"
   homepage "https://github.com/fullstackspectrum/gitpulse"
-  url "https://files.pythonhosted.org/packages/ee/5c/e1c2ff886df84faa20d0630330c85d7dfd037b6809bf7b70f618f8a289a1/gitpulse_analytics-0.2.0.tar.gz"
-  sha256 "1dcb44914b2ceda576d6c3a8f44f105fc2deae2d938236abaf77e495f7f80428"
+  url "https://files.pythonhosted.org/packages/a2/f1/e49269b6c2bcaaac5c02e7645e6631e1f5ed31ec555da883346c3c2574ee/gitpulse_analytics-0.2.1.tar.gz"
+  sha256 "067d7f752a53bf13ac415ee2f7094fc7949075c56dcfb03b0f9c48a84baddb3c"
   license "MIT"
 
   depends_on "python@3.13"
