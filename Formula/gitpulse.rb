@@ -7,8 +7,8 @@ class Gitpulse < Formula
 
   desc "GitHub traffic, clones, referrers, and release downloads with HTML dashboards"
   homepage "https://github.com/fullstackspectrum/gitpulse"
-  url "https://files.pythonhosted.org/packages/a2/f1/e49269b6c2bcaaac5c02e7645e6631e1f5ed31ec555da883346c3c2574ee/gitpulse_analytics-0.2.1.tar.gz"
-  sha256 "067d7f752a53bf13ac415ee2f7094fc7949075c56dcfb03b0f9c48a84baddb3c"
+  url "https://files.pythonhosted.org/packages/3e/36/7ba471dd78c1c1103d18a4f88b9361af103353c1802a52846877dc0455b7/gitpulse_analytics-1.0.0.tar.gz"
+  sha256 "b99792054f74a375d11586e207c99412a6f900b076708a9dd919f8ffe436294b"
   license "MIT"
 
   depends_on "python@3.13"
@@ -64,8 +64,8 @@ class Gitpulse < Formula
   end
 
   resource "typer" do
-    url "https://files.pythonhosted.org/packages/03/51/d33db42cc72ffd8c30777547b42d01f0cbf9d95a770457698d0174b3ed71/typer-0.27.3.tar.gz"
-    sha256 "d0396f770a560ab1b0a8504e13b5f254b728cedb05c61cf0359e944e50ce8901"
+    url "https://files.pythonhosted.org/packages/ad/8f/21021859316f44289101638dc74d82e13d722d8533e4b8708a3ab7c8461a/typer-0.28.0.tar.gz"
+    sha256 "69ab84ef79fd601cff071bbd2566d855ecadfd93adbc4b3360b9924359bdd857"
   end
 
   resource "urllib3" do
